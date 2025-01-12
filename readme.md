@@ -16,6 +16,7 @@ A clean minimalist webpage to #saycheese.
 - **Google Fonts**: Roboto font for a modern, clean look.
 - **Base64** : for the encoding ofc
 - **Python** : for makin the qr
+- **took help from Aarav J** - https://github.com/The-UnknownHacker/Html-To-QR
 
 ## How to Use
 just use this qr lol 
