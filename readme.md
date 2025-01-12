@@ -21,6 +21,7 @@ A clean minimalist webpage to #saycheese.
 just use this qr lol 
 
 
+![img_name](https://github.com/user-attachments/assets/fb0210ca-f845-40d6-b5c6-ca2bd804c8e0)
 
 
 ## License
